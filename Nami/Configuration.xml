@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<Address>127.0.0.1</Address>
+	<Port>80</Port>
+	<Root>C:/Users/is1-24-zaripovdm/Downloads/Курсовая/Курсовая/Kawaii</Root>
+	<Routes>
+		<Route>
+			<Pattern>^/$</Pattern>
+			<Type>Local</Type>
+			<Source>/index.html</Source>
+		</Route>
+		<Route>
+			<Pattern>^/api</Pattern>
+			<Type>Remote</Type>
+			<Source>127.0.0.1:5000</Source>
+		</Route>
+		<Route>
+			<Pattern>\.html|\.css|\.js|\.png|\.jpg|\.svg|\.ico|\.mp4$</Pattern>
+			<Type>Local</Type>
+			<Source></Source>
+		</Route>
+	</Routes>
+</Configuration>

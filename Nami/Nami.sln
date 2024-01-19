@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nami", "Nami.csproj", "{5A1691E0-EE78-401C-9617-18EF137C69F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A1691E0-EE78-401C-9617-18EF137C69F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1691E0-EE78-401C-9617-18EF137C69F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1691E0-EE78-401C-9617-18EF137C69F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1691E0-EE78-401C-9617-18EF137C69F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5009A10-1713-4838-A060-61606FF559D6}
+	EndGlobalSection
+EndGlobal

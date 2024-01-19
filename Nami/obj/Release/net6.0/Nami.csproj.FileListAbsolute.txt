@@ -1,0 +1,15 @@
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\bin\Release\net6.0\Nami.exe
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\bin\Release\net6.0\Configuration.xml
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\bin\Release\net6.0\Nami.deps.json
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\bin\Release\net6.0\Nami.runtimeconfig.json
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\bin\Release\net6.0\Nami.dll
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\bin\Release\net6.0\Nami.pdb
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\obj\Release\net6.0\Nami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\obj\Release\net6.0\Nami.AssemblyInfoInputs.cache
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\obj\Release\net6.0\Nami.AssemblyInfo.cs
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\obj\Release\net6.0\Nami.csproj.CoreCompileInputs.cache
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\obj\Release\net6.0\Nami.dll
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\obj\Release\net6.0\refint\Nami.dll
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\obj\Release\net6.0\Nami.pdb
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\obj\Release\net6.0\Nami.genruntimeconfig.cache
+C:\Users\is1-24-zaripovdm\Downloads\НА ДИСК\НА ДИСК\Nami\obj\Release\net6.0\ref\Nami.dll
